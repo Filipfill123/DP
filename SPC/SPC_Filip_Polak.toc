@@ -1,0 +1,23 @@
+\babel@toc {czech}{}
+\contentsline {section}{\numberline {1}Abstrakt}{1}% 
+\contentsline {section}{\numberline {2}Úvod}{3}% 
+\contentsline {subsection}{\numberline {2.1}Ropoznání řeči - Automatic Speech Recongnition (ASR)}{4}% 
+\contentsline {subsection}{\numberline {2.2}Porozumění řeči - Spoken Language Understanding (SLU)}{5}% 
+\contentsline {subsection}{\numberline {2.3}Dialogový manažer - Dialog Manager (DM)}{5}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Podle iniciativy}{6}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Podle struktury dialogu}{6}% 
+\contentsline {subsubsection}{\numberline {2.3.3}Řízení dialogu s konečným počtem stavů}{6}% 
+\contentsline {subsubsection}{\numberline {2.3.4}Řízení dialogu založené na rámcových strukturách}{6}% 
+\contentsline {subsubsection}{\numberline {2.3.5}Promluvy v hlasových dialogových systémech}{7}% 
+\contentsline {subsubsection}{\numberline {2.3.6}Potvrzování v hlasovém dialogovém systému}{8}% 
+\contentsline {subsubsection}{\numberline {2.3.7}Uzavřené výzvy}{8}% 
+\contentsline {subsubsection}{\numberline {2.3.8}Otevřené výzvy}{8}% 
+\contentsline {subsubsection}{\numberline {2.3.9}Explicitní potvrzování}{8}% 
+\contentsline {subsubsection}{\numberline {2.3.10}Implicitní potvrzování}{9}% 
+\contentsline {subsection}{\numberline {2.4}Generování odpovědi - Natural Language Generation (NLG) a Text do řeči - Text-to-speech (TTS)}{9}% 
+\contentsline {section}{\numberline {3}Metody a přístupy k reprezentaci stavu}{10}% 
+\contentsline {subsection}{\numberline {3.1}Scalable multio-domain dialogue state tracking}{10}% 
+\contentsline {subsection}{\numberline {3.2}Discriminative state tracking for spoken dialog systems}{11}% 
+\contentsline {subsection}{\numberline {3.3}PyDial: A multi-domain statistical dialogue system toolkit}{13}% 
+\contentsline {subsection}{\numberline {3.4}Mycroft}{14}% 
+\contentsline {subsection}{\numberline {3.5}A finite-state turn-taking model for spoken dialog systems}{15}% 
